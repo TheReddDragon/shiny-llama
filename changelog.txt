@@ -1,0 +1,7 @@
+C#002 (July 6th, 2015)
+|-Added file 'changelog.txt'
+X
+
+C#001 (July 6th, 2015)
+|-Added file 'README.md'
+X
